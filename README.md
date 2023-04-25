@@ -1,5 +1,5 @@
 # It is needed to:
-## 1. Rename downloaded folder (i.e. main folder) as "fpilarova_masters-main" (the script uses the name)
+## 1. Rename the downloaded folder (i.e. main folder) as "fpilarova_masters-main" (the script uses the name)
 The downloaded (main) folder contains: 
 - "AnAge_dataset" with dataset downloaded 15.4.2023 from AnAge database website (https://genomics.senescence.info/species/index.html)
 - "AnimalTraits_dataset" with dataset downloaded 15.4.2023 from AnimalTraits database website (https://animaltraits.org/)
@@ -9,8 +9,8 @@ The downloaded (main) folder contains:
 
 ## 2. Download:
 
-- NCBI Datasets command line tool: save the program "datasets.exe" into folder "script". More info about NCBI Datasets, how to download etc. on NCBI docs website here: https://www.ncbi.nlm.nih.gov/datasets/docs/v1/download-and-install/#windows
-- Clustal Omega: save the downloaded Clustal folder (with clustalo.exe program) as 'clustal-omega-1.2.2-win64' into the main folder. More info about Clustal Omega, how to download etc. on Clustal website here: http://www.clustal.org/omega/
+- NCBI Datasets command line tool: save the program "datasets.exe" into folder "script". More info about NCBI Datasets, how to download etc., on NCBI docs website here: https://www.ncbi.nlm.nih.gov/datasets/docs/v1/download-and-install/#windows
+- Clustal Omega: save the downloaded Clustal folder (with clustalo.exe program) as 'clustal-omega-1.2.2-win64' into the main folder. More info about Clustal Omega, how to download etc., on Clustal website here: http://www.clustal.org/omega/
 
 ## 3. Into the main folder create folders: 
 
