@@ -45,5 +45,5 @@ The downloaded (main) folder contains:
 - "stress_molecules.csv" contains all stress molecules used for the analysis, i.e. those that were HGNC-checked and their sequences were available on NCBI website 
 
 # Additional information: 
-CAASTools Discovery analysis on files from "CAASTools_files folder" is than run in Ubuntu Linux.
-More information in article "CAAStools, a toolbox to identify and test Convergent Amino Acid Substitutions", here: https://www.biorxiv.org/content/10.1101/2022.12.14.520422v1 
+CAASTools Discovery analysis on files from "CAASTools_files folder" is then run in Ubuntu Linux.
+More information about the tool is available in article "CAAStools, a toolbox to identify and test Convergent Amino Acid Substitutions", here: https://www.biorxiv.org/content/10.1101/2022.12.14.520422v1 
