@@ -1,5 +1,5 @@
 # It is needed to:
-## 1. Rename downloaded folder (called here as a main folder) as "fpilarova_masters-main" (the script uses the name)
+## 1. Rename downloaded folder (i.e. main folder) as "fpilarova_masters-main" (the script uses the name)
 The downloaded (main) folder contains: 
 - "AnAge_dataset" with dataset downloaded 15.4.2023 from AnAge database website (https://genomics.senescence.info/species/index.html)
 - "AnimalTraits_dataset" with dataset downloaded 15.4.2023 from AnimalTraits database website (https://animaltraits.org/)
