@@ -9,20 +9,20 @@ The downloaded (main) folder contains:
 
 ## 2. Download:
 
-NCBI Datasets command line tool: save the program "datasets.exe" into folder "script"
+- NCBI Datasets command line tool: save the program "datasets.exe" into folder "script"
 More info about NCBI Datasets, how to download etc. on NCBI docs website here: https://www.ncbi.nlm.nih.gov/datasets/docs/v1/download-and-install/#windows
 
 
-Clustal Omega: save the downloaded Clustal folder (with clustalo.exe program) as 'clustal-omega-1.2.2-win64' into the main folder
+- Clustal Omega: save the downloaded Clustal folder (with clustalo.exe program) as 'clustal-omega-1.2.2-win64' into the main folder
 More info about Clustal Omega, how to download etc. on Clustal website here: http://www.clustal.org/omega/
 
 ## 3. Into the main folder create folders: 
 
-"CAASTools_files"
-"NCBI_Datasets_download"
-"analyses"
-"results"
-"stress_molecules"
+- "CAASTools_files"
+- "NCBI_Datasets_download"
+- "analyses"
+- "results"
+- "stress_molecules"
 
 # Information about the output files created by the script:
 ## Files in folder "analyses"
