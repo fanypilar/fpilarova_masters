@@ -39,7 +39,7 @@ The downloaded (main) folder contains:
 - file "config.txt" with organisms traits info; needed as an input in CAASTools Discovery analysis
 
 ## Files in folder "results": 
-- after extracting the FINAL.rar files, there is a file "FINAL.xlxs" with all results of my master's thesis
+- after extracting the "FINAL.rar" files, there is a file "FINAL.xlxs" with all results of my master's thesis
 
 ## Files in folder "stress_molecules":
 
