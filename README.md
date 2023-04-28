@@ -1,5 +1,10 @@
-# It is needed to:
-## 1. Rename the downloaded folder (i.e. main folder) as "fpilarova_masters-main" (the script uses the name)
+# Description
+In this repository, there are files and a program that were created as a part of my master's thesis. 
+
+It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "results"; I believe it is available here also https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
+
+# To use the program it is needed to:
+## 1. Rename the main folder as "fpilarova_masters-main" (the script uses the name)
 The downloaded (main) folder contains: 
 - "AnAge_dataset" with dataset downloaded 15.4.2023 from AnAge database website (https://genomics.senescence.info/species/index.html)
 - "AnimalTraits_dataset" with dataset downloaded 15.4.2023 from AnimalTraits database website (https://animaltraits.org/)
