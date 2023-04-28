@@ -1,7 +1,7 @@
 # Description
 In this repository, there are files and a program that were created as a part of my master's thesis. 
 
-It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "results"; I believe it is available here also https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
+It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "results"; (I believe) it is available also here https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
 
 # To use the program it is needed to:
 ## 1. Rename the main folder as "fpilarova_masters-main" (the script uses the name)
@@ -39,11 +39,7 @@ The downloaded (main) folder contains:
 - file "config.txt" with organisms traits info; needed as an input in CAASTools Discovery analysis
 
 ## Files in folder "results": 
-- "organisms_lq.csv" contains information about bodymas, lifespan and lq of organisms that there are gene data available
-- "long_living_organisms.csv" contains last decile of organisms_lq.csv, i.e. long-living organisms
-- "short_living_organisms.csv" contains first decile of organisms_lq.csv, i.e. short-living organisms
-- "long_selected_orthologs.csv" contains selected sequences of stress molecule genes of short-living organisms
-- "short_selected_orthologs.csv" contains selected sequences of stress molecule genes of long-living organisms
+- after extracting the FINAL.rar files, there is a file "FINAL.xlxs" with all results of my master's thesis
 
 ## Files in folder "stress_molecules":
 
