@@ -43,7 +43,7 @@ The downloaded (main) folder contains:
 
 ## Files in folder "stress_molecules":
 
-- "stress_molecules.csv" contains all stress molecules used for the analysis, i.e. those that were HGNC-checked and their sequences were available on NCBI website 
+- "stress_molecules.csv" contains all stress molecules used for the analysis, i.e. those that were HGNC-checked and their sequences were available in the NCBI databases
 
 # Additional information: 
 The CAASTools Discovery analysis on files from "CAASTools_files folder" is then run in Ubuntu Linux.
