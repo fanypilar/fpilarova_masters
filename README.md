@@ -1,7 +1,7 @@
 # Description
 In this repository, there are files and a program that were created as a part of my master's thesis. 
 
-It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "results"; (I believe) it is available also here https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
+It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "masters_thesis_results" - "results.xlxs" contains results of my master's thesis analysis and "final_dataset.csv" contains dataset with data processed by the program; (I believe) it is available also here https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
 
 # To use the program it is needed to:
 ## 1. Rename the main folder as "fpilarova_masters-main" (the script uses the name)
@@ -21,17 +21,9 @@ The downloaded (main) folder contains:
 
 - "CAASTools_files"
 - "NCBI_Datasets_download"
-- "analyses"
 - "results"
-- "stress_molecules"
 
 # Information about the output files created by the script:
-## Files in folder "analyses":
-- "anage_animaltraits_data_merge.csv" contains all data from AnAge and AnimalTraits merged
-- "gene_in_multiple_paths_check.csv" contains information about in which paths are genes involved in
-- "genes_organisms_check.csv" contains information about what data were downloaded from NCBI, i.e. what genes for what organisms
-- "all_downloaded_sequences.csv" contains all information from stress molecules files downloaded from NCBI merged 
-- "orthologs_count" contains information about number of sequences that were downloaded for each gene
 
 ## Files in folder "CAASTools_files":
 - folder "fasta_files" containing fasta files each with all selected ortholog sequences (of both short and long-living organisms); will be used for MSA 
@@ -39,10 +31,12 @@ The downloaded (main) folder contains:
 - file "config.txt" with organisms traits info; needed as an input in CAASTools Discovery analysis
 
 ## Files in folder "results": 
-- "FINAL.xlxs" contains results of my master's thesis analysis
-
-## Files in folder "stress_molecules":
-
+- "anage_animaltraits_data_merge.csv" contains all data from AnAge and AnimalTraits merged
+- "gene_in_multiple_paths_check.csv" contains information about in which paths are genes involved in
+- "genes_organisms_check.csv" contains information about what data were downloaded from NCBI, i.e. what genes for what organisms
+- "all_downloaded_sequences.csv" contains all information from stress molecules files downloaded from NCBI merged 
+- "orthologs_count.csv" contains information about number of sequences that were downloaded for each gene
+- "final_dataset.csv" contains the final dataset with data processed by the program
 - "stress_molecules.csv" contains all stress molecules used for the analysis, i.e. those that were HGNC-checked and their sequences were available in the NCBI databases
 
 # Additional information: 
