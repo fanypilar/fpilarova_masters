@@ -7,6 +7,9 @@ It consists of a script that downloads data of gene sequences and then process t
 # The repository contains: 
 - "AnAge_dataset" with dataset downloaded 15. 4. 2023 from AnAge database website (https://genomics.senescence.info/species/index.html) (it is possible to replace it with an updated one)
 - "AnimalTraits_dataset" with dataset downloaded 15. 4. 2023 from AnimalTraits database website (https://animaltraits.org/) (it is possible to replace it with an updated one)
+- "masters_analysis_results" 
+  - with the results of the run of the program with genes that were chosen for the analysis for my master's thesis 
+  - and with the final dataset created by the program
 - "script" with the program
 - "README.md"
 
