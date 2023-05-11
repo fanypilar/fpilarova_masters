@@ -11,7 +11,7 @@ It consists of a script that downloads data of gene sequences and then process t
 - "README.md"
 
 
-# To use the program it is needed to add downloaded programs into the main folder:
+# To use the program it is needed to add downloaded programs into the main folder (fpilarova_masters-main):
 - NCBI Datasets command line tool: save the program "datasets.exe" into folder "script". More info about NCBI Datasets, how to download etc., on NCBI docs website here: https://www.ncbi.nlm.nih.gov/datasets/docs/v1/download-and-install/#windows
 - Clustal Omega: save the downloaded Clustal folder (with clustalo.exe program) as 'clustal-omega-1.2.2-win64' into the main folder. More info about Clustal Omega, how to download etc., on Clustal website here: http://www.clustal.org/omega/
 
