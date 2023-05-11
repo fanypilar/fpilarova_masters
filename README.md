@@ -4,7 +4,7 @@ In this repository, there are files and a program that were created as a part of
 It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "masters_thesis_results" - "results.xlxs" contains results of my master's thesis analysis and "final_dataset.csv" contains dataset with data processed by the program; (I believe) it is available also here https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
 
 
-# The downloaded (main) folder contains: 
+# The repository contains: 
 - "AnAge_dataset" with dataset downloaded 15. 4. 2023 from AnAge database website (https://genomics.senescence.info/species/index.html) (it is possible to replace it with an updated one)
 - "AnimalTraits_dataset" with dataset downloaded 15. 4. 2023 from AnimalTraits database website (https://animaltraits.org/) (it is possible to replace it with an updated one)
 - "script" with the program
