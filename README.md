@@ -6,8 +6,8 @@ It consists of a script that downloads data of gene sequences and then process t
 # To use the program it is needed to:
 ## 1. Rename the main folder as "fpilarova_masters-main" (the script uses the name)
 The downloaded (main) folder contains: 
-- "AnAge_dataset" with dataset downloaded 15.4.2023 from AnAge database website (https://genomics.senescence.info/species/index.html)
-- "AnimalTraits_dataset" with dataset downloaded 15.4.2023 from AnimalTraits database website (https://animaltraits.org/)
+- "AnAge_dataset" with dataset downloaded 15. 4. 2023 from AnAge database website (https://genomics.senescence.info/species/index.html) (it is possible to replace it with an updated one)
+- "AnimalTraits_dataset" with dataset downloaded 15. 4. 2023 from AnimalTraits database website (https://animaltraits.org/) (it is possible to replace it with an updated one)
 - "script" with the program
 - "README.md"
 
@@ -23,7 +23,8 @@ The downloaded (main) folder contains:
 - "NCBI_Datasets_download"
 - "results"
 
-# Information about the output files created by the script:
+
+# Information about the output files created by the program:
 
 ## Files in folder "CAASTools_files":
 - folder "fasta_files" containing fasta files each with all selected ortholog sequences (of both short and long-living organisms); will be used for MSA 
