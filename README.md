@@ -20,9 +20,9 @@ It consists of a script that downloads data of gene sequences and then process t
 # Information about the output files created by the program:
 
 ## Files in folder "CAAStools_files":
-- folder "fasta_files" containing fasta files each with all selected ortholog sequences (of both short and long-living organisms); will be used for MSA 
-- folder "MSA_results" containing MSA outputs; these are needed as input files in CAASTools Discovery analysis
-- file "config.txt" with organisms traits info; needed as an input in CAASTools Discovery analysis
+- folder "fasta_files" contains fasta files each with all selected ortholog sequences (of both short and long-living organisms); will be used for MSA 
+- folder "MSA_results" contains MSA outputs; these are needed as input files in CAAStools Discovery analysis
+- file "config.txt" with organisms traits info; needed as an input in CAAStools Discovery analysis
 
 ## Files in folder "results": 
 - "anage_animaltraits_data_merge.csv" contains all data from AnAge and AnimalTraits merged
@@ -34,5 +34,5 @@ It consists of a script that downloads data of gene sequences and then process t
 - "stress_molecules.csv" contains all stress molecules used for the analysis, i.e. those that were HGNC-checked and their sequences were available in the NCBI databases
 
 # Additional information: 
-The CAASTools Discovery analysis on files from "CAASTools_files folder" is then run in Ubuntu Linux.
+The CAAStools Discovery analysis on files from "CAAStools_files folder" is then run in Ubuntu Linux.
 More information about the tool is available in the article "CAAStools, a toolbox to identify and test Convergent Amino Acid Substitutions", here: https://www.biorxiv.org/content/10.1101/2022.12.14.520422v1 
