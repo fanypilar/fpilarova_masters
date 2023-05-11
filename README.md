@@ -3,30 +3,23 @@ In this repository, there are files and a program that were created as a part of
 
 It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "masters_thesis_results" - "results.xlxs" contains results of my master's thesis analysis and "final_dataset.csv" contains dataset with data processed by the program; (I believe) it is available also here https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
 
-# To use the program it is needed to:
-## 1. Rename the main folder as "fpilarova_masters-main" (the script uses the name)
-The downloaded (main) folder contains: 
+
+# The downloaded (main) folder contains: 
 - "AnAge_dataset" with dataset downloaded 15. 4. 2023 from AnAge database website (https://genomics.senescence.info/species/index.html) (it is possible to replace it with an updated one)
 - "AnimalTraits_dataset" with dataset downloaded 15. 4. 2023 from AnimalTraits database website (https://animaltraits.org/) (it is possible to replace it with an updated one)
 - "script" with the program
 - "README.md"
 
 
-## 2. Download:
-
+# To use the program it is needed to add downloaded programs into the main folder:
 - NCBI Datasets command line tool: save the program "datasets.exe" into folder "script". More info about NCBI Datasets, how to download etc., on NCBI docs website here: https://www.ncbi.nlm.nih.gov/datasets/docs/v1/download-and-install/#windows
 - Clustal Omega: save the downloaded Clustal folder (with clustalo.exe program) as 'clustal-omega-1.2.2-win64' into the main folder. More info about Clustal Omega, how to download etc., on Clustal website here: http://www.clustal.org/omega/
 
-## 3. Into the main folder create folders: 
-
-- "CAASTools_files"
-- "NCBI_Datasets_download"
-- "results"
 
 
 # Information about the output files created by the program:
 
-## Files in folder "CAASTools_files":
+## Files in folder "CAAStools_files":
 - folder "fasta_files" containing fasta files each with all selected ortholog sequences (of both short and long-living organisms); will be used for MSA 
 - folder "MSA_results" containing MSA outputs; these are needed as input files in CAASTools Discovery analysis
 - file "config.txt" with organisms traits info; needed as an input in CAASTools Discovery analysis
