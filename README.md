@@ -1,5 +1,5 @@
 # Description
-The repository contains a script that was created as a part of my master's thesis. The core of the script is to download data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are also a dataset and results of my master's thesis analysis (folder "masters_thesis_results"). The file "final_dataset.csv" is an output of the script and contains input dataset for the analysis. The file "results.xlxs" contains information about the dataset and results of the analysis.
+The repository contains a script that was created as a part of my master's thesis. The core of the script is to download data of gene sequences and then process them to be used in a CAAS (convergent amino acid substitutions) analysis. Additionally, there are also a dataset and results of my master's thesis analysis (folder "masters_thesis_results"). The file "final_dataset.csv" is an output of the script and contains input dataset for the analysis. The file "results.xlxs" contains information about the dataset and results of the analysis.
 
 
 # The repository contains: 
