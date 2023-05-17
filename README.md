@@ -1,7 +1,7 @@
 # Description
-In this repository, there are files and a program that were created as a part of my master's thesis. 
+This repository contains files and a script that were created as a part of my master's thesis. 
 
-It consists of a script that downloads data of gene sequences and then process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "masters_thesis_results" - "results.xlxs" contains results of my master's thesis analysis and "final_dataset.csv" contains dataset with data processed by the program; (I believe) it is available also here https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
+The script was made to download data of gene sequences and then to process them to be used in a CAAS analysis. Additionally, there are results of my master's thesis analysis (folder "masters_thesis_results" - "results.xlxs" contains results of my master's thesis analysis and "final_dataset.csv" contains dataset with data processed by the program; (I believe) it is available also here https://drive.google.com/drive/folders/1PXH8xgirwP3VDi-dWPBErm0z5k5CdcXK?usp=share_link). 
 
 
 # The repository contains: 
